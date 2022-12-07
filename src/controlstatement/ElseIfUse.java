@@ -14,11 +14,13 @@ public class ElseIfUse {
 		if(marks>=75)
 		{
 			System.out.println("i am in dist class");
+			
 		}
 		else if (marks>=66)
 		{
 			System.out.println("i am in 1 st class");
 		}
+		
 		else if (marks>=50)
 		{
 			System.out.println("i am 2cd class");
